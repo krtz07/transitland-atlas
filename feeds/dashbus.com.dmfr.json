@@ -30,7 +30,7 @@
       "id": "f-dqchv-alexandriatransitcompanydash~rt",
       "spec": "gtfs-rt",
       "urls": {
-        "realtime_vehicle_positions": "https://realtime.prod.dash.obaweb.org/agency/71/tripUpdates",
+        "realtime_vehicle_positions": "hhttps://realtime.prod.dash.obaweb.org/agency/71/VehiclePositions",
         "realtime_trip_updates": "https://realtime.prod.dash.obaweb.org/agency/71/tripUpdates",
         "realtime_alerts": "https://realtime.prod.dash.obaweb.org/agency/71/tripUpdates"
       }
